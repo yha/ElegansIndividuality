@@ -1,0 +1,15 @@
+[deps]
+BlockArrays = "8e7c35d0-a365-5155-bbbb-fb81a777f24e"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+MultivariateStats = "6f286f6a-111f-5878-ab1e-185364afe411"
+NamedArrays = "86f7a689-2022-50b4-a561-43c23ac3c673"
+OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
+RLEVectors = "17b45ede-fd0d-54ef-b825-8cf9fc64da95"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+
+[compat]
+BlockArrays = "=0.16.17"
