@@ -1,4 +1,8 @@
-# ElegansIndividuality
+# C. elegans individuality analysis
+This repository contains data and code related to individuality analysis in
+
+> Reemy Ali Nasser, Yuval Harel, Shay Stern (2023). Early-life experience reorganizes neuromodulatory regulation of stage-specific behavioral responses and individuality dimensions during development (https://doi.org/10.7554/eLife.84312)
+
 ## input data files
 Input data includes 
  - `well-list.csv`: list of individual worms/wells and their strain and stress condition (Days Starvation, *DS*)
